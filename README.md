@@ -11,7 +11,7 @@
 ### _Bienvenid@ a mi perfil._
 
 
-Soy un noob que disfruta curiosear... 
+Soy un Noob.js que disfruta curiosear...
 ---
 ---
 ### Ya he trabajado con estas:
